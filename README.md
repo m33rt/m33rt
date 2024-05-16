@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mert and I'm a from Turkey</p>
+<p align="left">My name is Mert</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Merhabalar Adım Mert 18 yaşındayım :D<br>ENG: Hello, my name is Mert, I am 18 years old :D</p>
+<p align="left">Merhabalar Ben Mert 18 Yaşındayım<br>Hello, I am Mert, I am 18 years old.</p>
 
 ###
 
@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -53,29 +55,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
@@ -90,9 +78,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/1efe627c2459c4d58c3e142263d236df47ee1cb7f0b0e2099820680bf313cdeb/68747470733a2f2f632e74656e6f722e636f6d2f69386c497a496c7a65486f41414141432f74656e6f722e676966"  />
-</div>
+<img src="https://raw.githubusercontent.com/m33rt/m33rt/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -102,6 +88,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/m33rt/m33rt/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/GitHub%20Mascot%20Tekno.gif"  />
+</div>
 
 ###
