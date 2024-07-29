@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Merhabalar Ben Mert 18 Yaşındayım<br>Hello, I am Mert, I am 18 years old.</p>
+<p align="left">Merhabalar Ben Mert 18 Yaşındayım Siber Güvenlik İle İlgileniyorum<br>Hello, I am Mert, I am 18 years old.</p>
 
 ###
 
